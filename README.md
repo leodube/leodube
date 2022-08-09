@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a cross platform enterprise grade document management system (private repository)
 - 📫 How to reach me: contact@leodube.ca
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I've planted 138,845 trees
+- ⚡ Fun fact: I've planted 236,860 trees
 
 <!--
 **leodube/leodube** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

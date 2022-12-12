@@ -1,7 +1,6 @@
 # Hi there 👋, I'm Leo!
 *I am a full stack software developer with a passion for adventure. I have experience in multiple languages and frameworks, and enjoy solving complex problems.*
 
-&nbsp;
 ## A bit more about me 🙋🏼‍♂️
 - 🔭 I am currently working on **C#.NET** and **React** Projects
 - 🌱 I am currently learning **Hugo** and **React Native**
@@ -10,6 +9,7 @@
 - 😄 Pronouns: he/him
 - 🌲 Fun fact: I've planted 236,860 trees
 
+&nbsp;
 ## Languages 🤟
 <p>
 <img src="https://img.icons8.com/color/35/000000/javascript--v1.png" title="Javascript"/> 
@@ -21,6 +21,7 @@
 <img src="https://img.icons8.com/color/35/000000/css3.png" title="CSS3"/> 
 </p>
 
+&nbsp;
 ## Frameworks and Tools 🧰
 <p>
 <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/35/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" title="React"/>
@@ -39,5 +40,6 @@
 <img src="https://img.icons8.com/color/35/000000/amazon-web-services.png" title="Amazon Web Services"/>
 </p>
 
+&nbsp;
 ## Stats Summary 📈
 ![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leodube&hide=contribs&count_private=true&show_icons=true&theme=transparent)

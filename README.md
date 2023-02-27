@@ -2,7 +2,7 @@
 *I am a full stack software developer with a passion for adventure. I have experience in multiple languages and frameworks, and enjoy solving complex problems.*
 
 ## A bit more about me 🙋🏼‍♂️
-- 🔭 I am currently working on **C#.NET** and **React** projects
+- 🔭 I am currently working on **.NET Core**, **React**, and **Flask** projects
 - 🌱 I am currently learning **Hugo** and **React Native**
 - 👨‍💻 Check out my projects on [my portfolio](https://leodube.ca/)
 - 📫 How to reach me: [contact@leodube.ca](mailto:contact@leodube.ca)
@@ -27,7 +27,7 @@
 <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/35/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" title="React"/>
 <img src="https://img.icons8.com/color/35/000000/vue-js.png" title="Vue.js"/>
 <img src="https://img.icons8.com/color/35/000000/nodejs.png" title="Node.js"/>
-<img src="https://img.icons8.com/color/35/000000/net-framework.png" title=".Net"/>
+<img src="https://img.icons8.com/color/35/000000/net-framework.png" title=".Net Core"/>
 <img src="https://img.icons8.com/color/35/000000/bootstrap.png" title="Bootstrap"/>
 <img src="https://img.icons8.com/color/35/000000/material-ui.png" title="Material UI"/>
 </p>

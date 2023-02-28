@@ -34,7 +34,7 @@
 <p>
 <img src="https://img.icons8.com/fluency/35/000000/visual-studio-code-2019.png" title="Visual Studio Code"/>
 <img src="https://img.icons8.com/color/35/000000/git.png" title="Git"/> 
-<img src="https://img.icons8.com/color/35/000000/jira.png" title="Jira"/>
+<img src="https://img.icons8.com/color/35/000000/docker.png" title="Docker"/>
 <img src="https://img.icons8.com/color/35/000000/microsoft-sql-server.png" title="Microsoft SQL Server"/>
 <img src="https://img.icons8.com/color/35/000000/postgreesql.png" title="Postrgres"/>
 <img src="https://img.icons8.com/color/35/000000/amazon-web-services.png" title="Amazon Web Services"/>

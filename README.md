@@ -7,7 +7,7 @@
 - 👨‍💻 Check out my projects on [my portfolio](https://leodube.ca/)
 - 📫 How to reach me: [contact@leodube.ca](mailto:contact@leodube.ca)
 - 😄 Pronouns: he/him
-- 🌲 Fun fact: I've planted 236,860 trees
+- 🌲 Fun fact: I've planted over a quarter million trees
 
 &nbsp;
 ## Languages 🤟

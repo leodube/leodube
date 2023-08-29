@@ -42,4 +42,4 @@
 
 &nbsp;
 ## Stats Summary 📈
-![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leodube&hide=contribs&count_private=true&show_icons=true&theme=transparent)
+![Leo's GitHub stats](https://github-read-me-stats-leodube.vercel.app/api?username=leodube&hide_contribs=true&count_private=true&show_icons=true&theme=transparent&include_all_commits=true)

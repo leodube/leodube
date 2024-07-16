@@ -1,6 +1,8 @@
 # Hi there 👋, I'm Leo!
 *I am a full stack software developer with a passion for adventure. I have experience in multiple languages and frameworks, and enjoy solving complex problems.*
 
+**[Click here](https://github.com/leodube-aot) to check out my work account to see my latest open source contributions.**
+
 ## A bit more about me 🙋🏼‍♂️
 - 🔭 I am currently working on **.NET Core**, **Vue**, and **Flask** projects
 - 🌱 I am currently learning **Hugo** and **React Native**

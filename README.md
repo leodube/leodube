@@ -4,12 +4,12 @@
 **[Click here](https://github.com/leodube-aot) to check out my work account and see my latest open source contributions.**
 
 ## A bit more about me 🙋🏼‍♂️
-- 🔭 I am currently working on **.NET Core**, **Vue**, and **Flask** projects
-- 🌱 I am currently learning **Hugo** and **React Native**
+- 🔭 I am currently working on **Python** **Flask** and **VueJS**  Projects
+- 🌱 I am currently learning **LLM-based solutions**
 - 👨‍💻 Check out my projects on [my portfolio](https://leodube.ca/)
 - 📫 How to reach me: [contact@leodube.ca](mailto:contact@leodube.ca)
 - 😄 Pronouns: he/him
-- 🌲 Fun fact: I've planted 450,000+ trees
+- 🌲 Fun fact: I've planted over 600,000 trees
 
 &nbsp;
 ## Languages 🤟
